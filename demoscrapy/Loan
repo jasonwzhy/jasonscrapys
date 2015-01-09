@@ -1,0 +1,550 @@
+
+<!DOCTYPE html>
+<html>
+<head id="ctl00_Head1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7" /><meta name="Keywords" content="红岭创投,互联网金融服务平台,最值得信赖的P2P网贷平台,深圳贷款,网络贷款,无抵押贷款,小额贷款公司,深圳中小企业贷款,短期贷款,中小企业融资" /><meta name="Description" content="红岭创投成立于2009年3月，是中国领先的互联网金融服务平台，P2P网络信贷行业的领跑者。红岭创投以稳健的风控和专业的团队，为投资者提供年化收益高达15-18%的网上理财服务。截止2014年4月，红岭创投累计用户逾16万，成交金额突破50亿元，为投资人带来超过1.4亿元收益。" /><title>
+	正在招标的借款_投资理财_互联网金融服务平台
+</title>
+    <script src="/201405/New_js/jquery-1.5.1.min.js" type="text/javascript"></script>
+    <script src="/201405/New_js/com.js?t=20140624" type="text/javascript"></script>
+    <script src="/201405/New_js/ceng.js" type="text/javascript"></script>
+    <script src="/201405/New_js/JqueryJson.js" type="text/javascript"></script>
+    <script type="text/javascript" src="/201405/New_js/jQuery.hhShare.min.js"></script>
+    <link href="/201405/New_css/base_new.css?t=20141209" rel="stylesheet" type="text/css" /><link href="/201405/New_css/ceng_new.css?t=20140625" rel="stylesheet" type="text/css" /></head>
+<body>
+<form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTg2NzU5MjQ0MmRkeBKLZaiQSGNXHlwwpsZCZT+GOh8=" />
+
+<div class="header">
+    <div class="headcont">
+        <div class="page">
+            <ul class="ul_rt rt">
+                <li><a href="http://m.my089.com" target="_blank">触屏版</a></li>
+                <li><a href="http://www.tzbao.com" target="_blank">投资宝首页</a></li>
+                <li><a href="/home/About.aspx">关于我们</a></li>
+                <li class="my089 menu-item" style="*position: relative; *z-index: 200;">
+                    <div class="menu">
+                        <a class="menu-hd" href="/Tools/Calculator.aspx">工具箱<b></b></a>
+                        <div class="menu-bd toubiao">
+                            <div class="menu-bd-panel">
+                                <ul>
+                                    <li><a href="/Tools/Calculator.aspx">利息计算器</a></li>
+                                    <li><a href="/Tools/CostCalculator.aspx">借款成本计算器</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+             
+                <li class="last"><a href="https://member.my089.com/safe/login.aspx">会员登入</a></li>
+                
+            </ul>
+            <div class="clear"></div>
+        </div> 
+        <div class="clear"></div>  
+        <h1 class="lf"><a href="/"><span>深圳市红岭创投电子商务股份有限公司</span></a></h1>
+        <ul class="meun_lf rt">
+            <li><a href="/" class="meu_1">红岭首页</a></li>            
+            <li><a href="/Loan/" class="meu_4">我要投资</a></li>
+            <li><a href="/Borrow/" class="meu_5">我要融资</a></li>
+            
+            <li class="RegMeun"><a href="https://member.my089.com/safe/Reg.aspx">免费注册</a></li>
+            
+            <li class="SepLink"></li>
+            <li><a href="/home/UserGuide.aspx" class="meu_2">新人指南</a></li>
+            <li><a href="http://bbs.my089.com/" class="meu_3">红岭社区</a></li>
+        </ul>
+       
+        <div class="clear"></div>
+    </div> 
+</div>
+<div class="content">
+
+<link href="/201405/New_css/Loan.css?t=20140625" rel="stylesheet" type="text/css" />
+
+
+<div class="LoanSelect">
+    <h2><span class="cur lf">正在招标的借款</span><b class="lf">|</b><a href="/Loan/FastTrans.aspx" class="zb lf">正在转让的债权</a><a href="/Loan/Succeed.aspx" class="radius_10 rt">查看成功的借款</a></h2>
+    <div class="Select_warp">
+        <div class="Select_list lf">
+            <ul>
+                <li><span style=" margin:6px 0;">还款方式：</span><a class="Current" href="default.aspx?&ou=1">全部</a><a href="default.aspx?&ou=1&p=0">按月分期</a><a href="default.aspx?&ou=1&p=2">按季分期</a><a href="default.aspx?&ou=1&p=3">按月到期</a><a href="default.aspx?&ou=1&p=4">按天计息到期</a></li>
+                <li><span style=" margin:6px 0;">借款期限：</span><a class="Current" href="default.aspx?&ou=1">全部</a><a href="default.aspx?&ou=1&mit=-1&mat=-1">30天内</a><a href="default.aspx?&ou=1&mit=1&mat=1">1个月</a><a href="default.aspx?&ou=1&mit=1&mat=3">1-3个月</a><a href="default.aspx?&ou=1&mit=3&mat=6">3-6个月</a><a href="default.aspx?&ou=1&mit=6&mat=12">6-12个月</a><a href="default.aspx?&ou=1&mit=12&">12个月以上</a></li>
+                <li class="ioc" ><span style=" margin:6px 0;">标的类型：</span><a class="Current" href="default.aspx?&ou=1">全部</a><a href="default.aspx?&ou=1&lc=1"><span title="信用标" class="SubL1"></span></a><a href="default.aspx?&ou=1&lc=90"><span title="净值标" class="SubL90"></span></a><a href="default.aspx?&ou=1&lc=50"><span title="快借标" class="SubL50"></span></a><a href="default.aspx?&ou=1&lc=60"><span title="推荐标" class="SubL60"></span></a><a href="default.aspx?&ou=1&lc=110"><span title="资产标" class="SubL110"></span></a><a href="default.aspx?&ou=1&lc=20"><span title="秒还标" class="SubL20"></span></a><a href="default.aspx?&ou=1&lc=120"><span title="公信贷" class="SubL120"></span></a> </li>
+            </ul>
+        </div>
+        <div class="LoanGuide rt">
+            <h3>新手指南</h3>
+            <ul>
+                <li><a href="/Loan/CateInfo.aspx">不同类型借款有哪些不同？</a></li>
+                <li><a href="/Loan/Repayment.aspx">不同还款方式有哪些不同？</a></li>
+                <li><a href="/Loan/AutoBid.aspx">如何设置自动标？</a></li>
+                <li><a href="/Loan/FundSecurity.aspx">本金有哪些保障？</a></li>
+            </ul>
+        </div>
+        <div class="clear"></div>
+    </div>
+</div>
+<div class="Loan_box" style="min-height:400px;_height:400px;">
+    <dl class="Bid_head">
+        <dd class="dd_5">&nbsp;&nbsp;&nbsp;</dd>
+        
+        <dd class="dd_1"><a href="default.aspx?&oc=5&ou=-1">借款标题/借款人/初审时间 </a></dd><dd class="dd_2"><a href="default.aspx?&oc=3&ou=-1">利率 </a></dd><dd class="dd_3"><a href="default.aspx?&oc=2&ou=-1">借款金额 </a></dd><dd class=dd_4><a>期限/还款方式 </a></dd><dd class="dd_6"><a href="default.aspx?&oc=4&ou=-1">投标进度 </a></dd>
+    </dl>
+      
+    <dl class="LoanList">
+        <dd class="dd_5"><img alt="" src="/App_Resources/icon_notimage.gif" /></dd>
+        <dd class="dd_1 LoanTitle mar_top_15">
+           <div class="txt_tou">
+               <b title="快借标，点击查看借款类型说明" target="_blank"  style="cursor:pointer;" onclick="document.location.href='/Loan/CateInfo.aspx'" class="SubL50"></b>
+               <a href="Detail.aspx?sid=15010714141067393446890017326923" title="福建2号项目融资(8)" target="_blank" class="lf">
+               福建2号项目融资(8)
+               </a>
+               <div class="clear"></div>
+            </div>
+            <div class="user_time">
+                <span class="lf">2015-01-07 14:30:16</span><b class="lf">|</b><a target="_blank" class="lf" href='/ConsumerInfo1.aspx?uid=97A5C21752FB8465'>kjsxjrjs</a>
+                <em class="My_VIP_1" title="会员等级"></em>
+                <div class="clear"></div>
+            </div>           
+        </dd>
+        <dd class="dd_2 mar_top_18"><span class="number">18.00%/年</span></dd>
+        <dd class="dd_3 mar_top_18"><span class="number">￥3,000,000.00</span></dd>
+        <dd class="dd_4 mar_top_18"><span class="number">24</span>个月 / 按天计息到期</dd>
+        <dd class="dd_6 mar_top_18">
+            <p class="Bar lf">
+                <span>0%</span>
+                <b class="Bar_1" style="width:0%"></b>
+            </p>
+            <div class="clear"></div>
+        </dd>  
+    </dl>
+      
+    <dl class="LoanList">
+        <dd class="dd_5"><img alt="" src="/App_Resources/icon_notimage.gif" /></dd>
+        <dd class="dd_1 LoanTitle mar_top_15">
+           <div class="txt_tou">
+               <b title="快借标，点击查看借款类型说明" target="_blank"  style="cursor:pointer;" onclick="document.location.href='/Loan/CateInfo.aspx'" class="SubL50"></b>
+               <a href="Detail.aspx?sid=15010714273603793445750010864381" title="山东4号项目融资(4)" target="_blank" class="lf">
+               山东4号项目融资(4)
+               </a>
+               <div class="clear"></div>
+            </div>
+            <div class="user_time">
+                <span class="lf">2015-01-07 14:29:25</span><b class="lf">|</b><a target="_blank" class="lf" href='/ConsumerInfo1.aspx?uid=8DE7FD00E05284DC'>kjsdjz</a>
+                <em class="My_VIP_1" title="会员等级"></em>
+                <div class="clear"></div>
+            </div>           
+        </dd>
+        <dd class="dd_2 mar_top_18"><span class="number">18.00%/年</span></dd>
+        <dd class="dd_3 mar_top_18"><span class="number">￥3,000,000.00</span></dd>
+        <dd class="dd_4 mar_top_18"><span class="number">18</span>个月 / 按天计息到期</dd>
+        <dd class="dd_6 mar_top_18">
+            <p class="Bar lf">
+                <span>66%</span>
+                <b class="Bar_1" style="width:66%"></b>
+            </p>
+            <div class="clear"></div>
+        </dd>  
+    </dl>
+      
+    <dl class="LoanList">
+        <dd class="dd_5"><img alt="" src="/App_Resources/icon_notimage.gif" /></dd>
+        <dd class="dd_1 LoanTitle mar_top_15">
+           <div class="txt_tou">
+               <b title="快借标，点击查看借款类型说明" target="_blank"  style="cursor:pointer;" onclick="document.location.href='/Loan/CateInfo.aspx'" class="SubL50"></b>
+               <a href="Detail.aspx?sid=15010713421474093303760017674027" title="山东3号项目融资(64)" target="_blank" class="lf">
+               山东3号项目融资(64)
+               </a>
+               <div class="clear"></div>
+            </div>
+            <div class="user_time">
+                <span class="lf">2015-01-07 13:49:20</span><b class="lf">|</b><a target="_blank" class="lf" href='/ConsumerInfo1.aspx?uid=57F3D9EDEB3E8C7E'>kjzbcs</a>
+                <em class="My_VIP_1" title="会员等级"></em>
+                <div class="clear"></div>
+            </div>           
+        </dd>
+        <dd class="dd_2 mar_top_18"><span class="number">18.00%/年</span></dd>
+        <dd class="dd_3 mar_top_18"><span class="number">￥4,000,000.00</span></dd>
+        <dd class="dd_4 mar_top_18"><span class="number">27</span>个月 / 按天计息到期</dd>
+        <dd class="dd_6 mar_top_18">
+            <p class="Bar lf">
+                <span>9%</span>
+                <b class="Bar_1" style="width:9%"></b>
+            </p>
+            <div class="clear"></div>
+        </dd>  
+    </dl>
+      
+    <dl class="LoanList">
+        <dd class="dd_5"><img alt="" src="https://www.my089.com/CommonPage/getFile.aspx?fid=11092917143566800041561215336202&isMin=1" /></dd>
+        <dd class="dd_1 LoanTitle mar_top_15">
+           <div class="txt_tou">
+               <b title="帐户净值额度借款，点击查看借款类型说明" target="_blank"  style="cursor:pointer;"  onclick="document.location.href='/Loan/CateInfo.aspx'" class="SubL90"></b>
+               <a href="Detail.aspx?sid=15010714401956690411940010029416" title="短期周转1个月_1501071444" target="_blank" class="lf">
+               短期周转1个月_1501071444
+               </a>
+               <div class="clear"></div>
+            </div>
+            <div class="user_time">
+                <span class="lf">2015-01-07 14:44:27</span><b class="lf">|</b><a target="_blank" class="lf" href='/ConsumerInfo1.aspx?uid=D175C08C036FCEBD'>woolett</a>
+                <em class="My_VIP_4" title="会员等级"></em>
+                <div class="clear"></div>
+            </div>           
+        </dd>
+        <dd class="dd_2 mar_top_18"><span class="number">14.58%/年</span></dd>
+        <dd class="dd_3 mar_top_18"><span class="number">￥5,000.00</span></dd>
+        <dd class="dd_4 mar_top_18"><span class="number">1</span>个月 / 按月分期</dd>
+        <dd class="dd_6 mar_top_18">
+            <p class="Bar lf">
+                <span>23%</span>
+                <b class="Bar_1" style="width:23%"></b>
+            </p>
+            <div class="clear"></div>
+        </dd>  
+    </dl>
+      
+    <dl class="LoanList">
+        <dd class="dd_5"><img alt="" src="/App_Resources/icon_notimage.gif" /></dd>
+        <dd class="dd_1 LoanTitle mar_top_15">
+           <div class="txt_tou">
+               <b title="帐户净值额度借款，点击查看借款类型说明" target="_blank"  style="cursor:pointer;"  onclick="document.location.href='/Loan/CateInfo.aspx'" class="SubL90"></b>
+               <a href="Detail.aspx?sid=15010714433860192381320015064167" title="短期周转1个月_1501071443" target="_blank" class="lf">
+               短期周转1个月_1501071443
+               </a>
+               <div class="clear"></div>
+            </div>
+            <div class="user_time">
+                <span class="lf">2015-01-07 14:43:56</span><b class="lf">|</b><a target="_blank" class="lf" href='/ConsumerInfo1.aspx?uid=DC27C5BFAAC735BD'>辨观闻品</a>
+                <em class="My_VIP_1" title="会员等级"></em>
+                <div class="clear"></div>
+            </div>           
+        </dd>
+        <dd class="dd_2 mar_top_18"><span class="number">11.08%/年</span></dd>
+        <dd class="dd_3 mar_top_18"><span class="number">￥800.00</span></dd>
+        <dd class="dd_4 mar_top_18"><span class="number">1</span>个月 / 按月分期</dd>
+        <dd class="dd_6 mar_top_18">
+            <p class="Bar lf">
+                <span>0%</span>
+                <b class="Bar_1" style="width:0%"></b>
+            </p>
+            <div class="clear"></div>
+        </dd>  
+    </dl>
+      
+    <dl class="LoanList">
+        <dd class="dd_5"><img alt="" src="https://www.my089.com/CommonPage/getFile.aspx?fid=14102814370492891534580213165060&isMin=1" /></dd>
+        <dd class="dd_1 LoanTitle mar_top_15">
+           <div class="txt_tou">
+               <b title="帐户净值额度借款，点击查看借款类型说明" target="_blank"  style="cursor:pointer;"  onclick="document.location.href='/Loan/CateInfo.aspx'" class="SubL90"></b>
+               <a href="Detail.aspx?sid=15010714433355491527900013232378" title="短期周转1个月_1501071443" target="_blank" class="lf">
+               短期周转1个月_1501071443
+               </a>
+               <div class="clear"></div>
+            </div>
+            <div class="user_time">
+                <span class="lf">2015-01-07 14:43:53</span><b class="lf">|</b><a target="_blank" class="lf" href='/ConsumerInfo1.aspx?uid=35B9E09B520627E3'>创业者1906</a>
+                <em class="My_VIP_2" title="会员等级"></em>
+                <div class="clear"></div>
+            </div>           
+        </dd>
+        <dd class="dd_2 mar_top_18"><span class="number">14.00%/年</span></dd>
+        <dd class="dd_3 mar_top_18"><span class="number">￥5,000.00</span></dd>
+        <dd class="dd_4 mar_top_18"><span class="number">1</span>个月 / 按月分期</dd>
+        <dd class="dd_6 mar_top_18">
+            <p class="Bar lf">
+                <span>10%</span>
+                <b class="Bar_1" style="width:10%"></b>
+            </p>
+            <div class="clear"></div>
+        </dd>  
+    </dl>
+      
+    <dl class="LoanList">
+        <dd class="dd_5"><img alt="" src="https://www.my089.com/CommonPage/getFile.aspx?fid=12083111512653100063447211708423&isMin=1" /></dd>
+        <dd class="dd_1 LoanTitle mar_top_15">
+           <div class="txt_tou">
+               <b title="帐户净值额度借款，点击查看借款类型说明" target="_blank"  style="cursor:pointer;"  onclick="document.location.href='/Loan/CateInfo.aspx'" class="SubL90"></b>
+               <a href="Detail.aspx?sid=15010714421191090635890017040202" title="短期周转1个月_1501071442" target="_blank" class="lf">
+               短期周转1个月_1501071442
+               </a>
+               <div class="clear"></div>
+            </div>
+            <div class="user_time">
+                <span class="lf">2015-01-07 14:43:13</span><b class="lf">|</b><a target="_blank" class="lf" href='/ConsumerInfo1.aspx?uid=D1F5987EEFBDF1D9'>yuguang</a>
+                <em class="My_VIP_5" title="会员等级"></em>
+                <div class="clear"></div>
+            </div>           
+        </dd>
+        <dd class="dd_2 mar_top_18"><span class="number">14.51%/年</span></dd>
+        <dd class="dd_3 mar_top_18"><span class="number">￥20,000.00</span></dd>
+        <dd class="dd_4 mar_top_18"><span class="number">1</span>个月 / 按月分期</dd>
+        <dd class="dd_6 mar_top_18">
+            <p class="Bar lf">
+                <span>21%</span>
+                <b class="Bar_1" style="width:21%"></b>
+            </p>
+            <div class="clear"></div>
+        </dd>  
+    </dl>
+      
+    <dl class="LoanList">
+        <dd class="dd_5"><img alt="" src="https://www.my089.com/CommonPage/getFile.aspx?fid=14081310124097291451020215470356&isMin=1" /></dd>
+        <dd class="dd_1 LoanTitle mar_top_15">
+           <div class="txt_tou">
+               <b title="帐户净值额度借款，点击查看借款类型说明" target="_blank"  style="cursor:pointer;"  onclick="document.location.href='/Loan/CateInfo.aspx'" class="SubL90"></b>
+               <a href="Detail.aspx?sid=15010714422165591445670013133775" title="短期周转3个月_1501071442" target="_blank" class="lf">
+               短期周转3个月_1501071442
+               </a>
+               <div class="clear"></div>
+            </div>
+            <div class="user_time">
+                <span class="lf">2015-01-07 14:42:48</span><b class="lf">|</b><a target="_blank" class="lf" href='/ConsumerInfo1.aspx?uid=774AAB517A685F81'>dxlcqu</a>
+                <em class="My_VIP_2" title="会员等级"></em>
+                <div class="clear"></div>
+            </div>           
+        </dd>
+        <dd class="dd_2 mar_top_18"><span class="number">14.28%/年</span></dd>
+        <dd class="dd_3 mar_top_18"><span class="number">￥7,000.00</span></dd>
+        <dd class="dd_4 mar_top_18"><span class="number">3</span>个月 / 按月到期</dd>
+        <dd class="dd_6 mar_top_18">
+            <p class="Bar lf">
+                <span>10%</span>
+                <b class="Bar_1" style="width:10%"></b>
+            </p>
+            <div class="clear"></div>
+        </dd>  
+    </dl>
+      
+    <dl class="LoanList">
+        <dd class="dd_5"><img alt="" src="https://www.my089.com/CommonPage/getFile.aspx?fid=14092910491652290730570211193628&isMin=1" /></dd>
+        <dd class="dd_1 LoanTitle mar_top_15">
+           <div class="txt_tou">
+               <b title="帐户净值额度借款，点击查看借款类型说明" target="_blank"  style="cursor:pointer;"  onclick="document.location.href='/Loan/CateInfo.aspx'" class="SubL90"></b>
+               <a href="Detail.aspx?sid=15010714421774690730160013236208" title="短期周转1个月_1501071442" target="_blank" class="lf">
+               短期周转1个月_1501071442
+               </a>
+               <div class="clear"></div>
+            </div>
+            <div class="user_time">
+                <span class="lf">2015-01-07 14:42:37</span><b class="lf">|</b><a target="_blank" class="lf" href='/ConsumerInfo1.aspx?uid=F0E0BE7F17738820'>min0412</a>
+                <em class="My_VIP_3" title="会员等级"></em>
+                <div class="clear"></div>
+            </div>           
+        </dd>
+        <dd class="dd_2 mar_top_18"><span class="number">14.00%/年</span></dd>
+        <dd class="dd_3 mar_top_18"><span class="number">￥5,000.00</span></dd>
+        <dd class="dd_4 mar_top_18"><span class="number">1</span>个月 / 按月分期</dd>
+        <dd class="dd_6 mar_top_18">
+            <p class="Bar lf">
+                <span>60%</span>
+                <b class="Bar_1" style="width:60%"></b>
+            </p>
+            <div class="clear"></div>
+        </dd>  
+    </dl>
+      
+    <dl class="LoanList">
+        <dd class="dd_5"><img alt="" src="/App_Resources/icon_notimage.gif" /></dd>
+        <dd class="dd_1 LoanTitle mar_top_15">
+           <div class="txt_tou">
+               <b title="秒还标，点击查看借款类型说明" target="_blank"  style="cursor:pointer;"  onclick="document.location.href='/Loan/CateInfo.aspx'" class="SubL20"></b>
+               <b title="需要凭密码才能投标！">[密]</b><a href="Detail.aspx?sid=15010714410813393062350016801299" title="刷分xc2081，来02" target="_blank" class="lf">
+               刷分xc2081，来02
+               </a>
+               <div class="clear"></div>
+            </div>
+            <div class="user_time">
+                <span class="lf">2015-01-07 14:42:03</span><b class="lf">|</b><a target="_blank" class="lf" href='/ConsumerInfo1.aspx?uid=A91979F4FB64E993'>ay</a>
+                <em class="My_VIP_3" title="会员等级"></em>
+                <div class="clear"></div>
+            </div>           
+        </dd>
+        <dd class="dd_2 mar_top_18"><span class="number">1.00%/年</span></dd>
+        <dd class="dd_3 mar_top_18"><span class="number">￥37,500.00</span></dd>
+        <dd class="dd_4 mar_top_18"><span class="number">1</span>个月 / 按月分期</dd>
+        <dd class="dd_6 mar_top_18">
+            <p class="Bar lf">
+                <span>0%</span>
+                <b class="Bar_1" style="width:0%"></b>
+            </p>
+            <div class="clear"></div>
+        </dd>  
+    </dl>
+     
+    <div class="clear"></div>
+    <div class="yema rt"><span class="z_page">共24页</span><span class="curyema">1</span><a href="default.aspx?pid=2">2</a><a href="default.aspx?pid=3">3</a><a href="default.aspx?pid=4">4</a><a href="default.aspx?pid=5">5</a><a href="default.aspx?pid=6">6</a><a href="default.aspx?pid=2">下一页</a><a href="default.aspx?pid=24">最后一页</a></div><div class="clear"></div>
+    <div class="clear"></div>
+</div>
+
+<div class="clear"></div>
+</div>
+<div class="foot">
+    <div class="footer">
+        <div class="foot_Box">
+            <div class="Telus lf">
+                <ul>
+                    <li><strong>联络我们</strong>（09:00 - 22:00）</li>
+                    <li class="tel">4000-016-089</li>
+                    <li class="telioc"><a target="_blank" href="http://b.qq.com/webc.htm?new=0&sid=800003737&eid=2188z8p8p8p8p8P8y8P8y&o=&q=7"
+                    onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=800003737&eid=2188z8p8p8p8p8P8y8P8y&o=www.my089.com&q=7', '_blank', 'height=544, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');"
+                    title="企业QQ在线服务，每天9:00-22:00"><span class="lf">在线客服</span><em class="lf"></em></a></li>
+                </ul>
+                <div class="clear"></div>
+            </div>
+            <div class="FollowUs lf">
+                <ul>
+                    <li class=" fon_16"><strong>关注我们</strong></li>
+                    <li class="Followpic"><a href="http://weibo.com/wzpingivan" target="_blank" class="sina" title="关注新浪微博"></a><a href="http://e.t.qq.com/honglingchuang" target="_blank" class="tengxun" title="关注腾讯微博"></a><a href="#" class="popbox-link weixin" title="扫一扫关注红岭官方微信"></a></li>
+                    </ul>
+            </div>
+            <div class="popbox-link_cont">
+                <div id="screen"></div><!--screen end-->
+                <div class="popbox">
+	                <h2><span class="lf">扫一扫关注红岭创投官方微信</span><a class="close-btn rt" href="#">关闭</a></h2>
+	                <div class="mainlist" style=" text-align:center;">
+		                <img alt="" src="/201405/New_pic/weixin.png" style=" width:250px; height:250px;" />
+	                </div>
+                </div><!--popbox end-->
+            </div><!-- 微信二维码弹出框内容 -->
+            <div class="FootLinks rt">
+                <ul class="linkA">
+                    <li><a href="/home/About.aspx">关于我们</a></li>
+                    <li><a href="/home/Contact.aspx">联系我们</a></li>
+                    <li><a href="/home/Jobs.aspx">诚征英才</a></li>
+                    <li><a href="/home/Media.aspx">媒体报道</a></li>
+                    <li><a href="/home/UserGuide.aspx">新人指南</a></li>
+                </ul>
+                <div class="clear"></div>
+                <ul class="linkB">
+                    <li>
+                        <span>战略合作伙伴</span>
+                        <a href="http://www.pingan.com/" target="_blank" class="pingan" style=" margin-top:25px;"></a>
+                    </li>
+                    <li style=" margin:0 30px;">
+                        <span>合作伙伴</span>
+                        <a href="https://www.tenpay.com" target="_blank" class="cft" ></a>
+                    </li>
+                    <li>
+                        <span>旗下平台</span>
+                        <a href="http://www.tzbao.com" target="_blank" class="tzb" style=" margin-top:20px;"></a>
+                    </li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+        <div class="BotLink">
+            <p><span>© 2015 红岭创投 All rights reserved</span>|<span>深圳市红岭创投电子商务股份有限公司</span>|<span>粤ICP备10234900号</span>|<span><a href="/2013/img/sp2013.jpg" target="_blank">增值电信业务经营许可证粤B2-20130472</a></span></p>
+            <div class="img" style=" margin-left:160px;">
+                <a target="_blank" href="http://www.tzbao.com" class="tzb" style=" display:none;"></a>
+                <a target="_blank" href="https://cert.ebs.gov.cn/771e4ba3-8a8e-4d92-8aba-6e72125fd8fc" class="szscjg"></a> 
+                <a target="_blank" href="http://www.itrust.org.cn/yz/pjwx.asp?wm=1562798085" class="itrust"></a>               
+                <a target="_blank" href="https://search.szfw.org/cert/l/CX20140403003730003771" class="ceca"></a>
+                <a target="_blank" href="https://ss.knet.cn/verifyseal.dll?sn=e13112844030043647zh8f000000&amp;comefrom=verify&amp;trustKey=dn&amp;trustValue=my089.com" class="kxnet"></a>
+                <a target="_blank" href="http://www.anquan.org/authenticate/cert/?site=www.my089.com&amp;at=business" class="aglm"></a>
+                <a target="_blank" href="http://si.trustutn.org/info?sn=353141204000028278573" class="rzlm"></a>
+                <div class="clear"></div>
+            </div>
+        </div>      
+    </div>
+</div>
+<div class="asid_share" id="asid_share">
+	<div class="asid_share_box relative">
+		<a href="/Service/OnlineQuestion.aspx" class="linetw"></a>
+	</div>
+    <div class="asid_share_box relative">
+		<a target="_blank" href="http://b.qq.com/webc.htm?new=0&sid=800003737&eid=2188z8p8p8p8p8P8y8P8y&o=&q=7"
+                    onclick="javascript:window.open('http://b.qq.com/webc.htm?new=0&sid=800003737&eid=2188z8p8p8p8p8P8y8P8y&o=www.my089.com&q=7', '_blank', 'height=544, width=644,toolbar=no,scrollbars=no,menubar=no,status=no');" class="kefu" title="企业QQ在线服务，每天9:00-22:00" ></a>
+	</div> 
+	<div class="asid_share_box relative" >
+		<a href="#" class="weixin"></a>
+		<div class="asid_share_triangle" style="display:none;">
+			<em class="border_sj">&#9670;</em>
+	        <span class="con_sj">&#9670;</span>
+        </div>
+		<div class="asid_sha_layer" style="width:220px;display:none;">
+			<p class="sweep_img"><img alt="" src="/201405/New_pic/weixin.png" style=" width:200px; height:200px;" /></p>
+			<p class="pb6"><b>扫一扫添加红岭创投官方微信</b></p>
+		</div>
+	</div>
+	<div class="asid_share_box relative" style="display:none;">
+		<a href="#" class="top"></a>
+	</div>
+</div>
+
+<!----- 右侧工具栏特效 --------->
+<script type="text/javascript">
+    $(function () {
+        //图片滚动特效
+        $('#asid_share').hhShare({
+            cenBox: 'asid_share_box',  //里边的小层
+            icon: 'adid_icon',
+            addClass: 'red_bag',
+            titleClass: 'asid_title',
+            triangle: 'asid_share_triangle', //鼠标划过显示图层，边上的小三角
+            showBox: 'asid_sha_layer' //鼠标划过显示图层
+        });
+    });
+</script>
+<!----  底部首页微信二维码弹出框 ---------->
+<script type="text/javascript">
+    $(document).ready(function () {
+        $('.close-btn').click(function () {
+            $('.popbox').fadeOut(function () { $('#screen').hide(); });
+            return false;
+        });
+
+        $('.popbox-link').click(function () {
+            var h = $(document).height();
+            $('#screen').css({ 'height': h });
+            $('#screen').show();
+            $('.popbox').center();
+            $('.popbox').fadeIn();
+            return false;
+        });
+
+    });
+
+    jQuery.fn.center = function (loaded) {
+        var obj = this;
+        body_width = parseInt($(window).width());
+        body_height = parseInt($(window).height());
+        block_width = parseInt(obj.width());
+        block_height = parseInt(obj.height());
+
+        left_position = parseInt((body_width / 2) - (block_width / 2) + $(window).scrollLeft());
+        if (body_width < block_width) { left_position = 0 + $(window).scrollLeft(); };
+
+        top_position = parseInt((body_height / 2) - (block_height / 2) + $(window).scrollTop());
+        if (body_height < block_height) { top_position = 0 + $(window).scrollTop(); };
+
+        if (!loaded) {
+
+            obj.css({ 'position': 'absolute' });
+            obj.css({ 'top': top_position, 'left': left_position });
+            $(window).bind('resize', function () {
+                obj.center(!loaded);
+            });
+            $(window).bind('scroll', function () {
+                obj.center(!loaded);
+            });
+
+        } else {
+            obj.stop();
+            obj.css({ 'position': 'absolute' });
+            obj.animate({ 'top': top_position }, 200, 'linear');
+        }
+    }
+</script>
+<div style="display:none">
+
+<script type="text/javascript">
+    var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cspan id='cnzz_stat_icon_1419416'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/stat.php%3Fid%3D1419416' type='text/javascript'%3E%3C/script%3E"));
+    var _bdhmProtocol = (("https:" == document.location.protocol) ? " https://" : " http://");
+    document.write(unescape("%3Cscript src='" + _bdhmProtocol + "hm.baidu.com/h.js%3Fda0801c97fe0ff9285b53c6d27d0bab6' type='text/javascript'%3E%3C/script%3E"));
+</script>
+
+</div>
+</form>
+</body>
+</html>
